@@ -7,4 +7,4 @@ and TV shows are updated
 This website it has search bar is there if we search the film names it is rendering the search related 
 movie reviews
 I have attached the website link here
-[Moviereview website] (https://drajkumard.github.io/Movie-review/)
+[Moviereview website](https://drajkumard.github.io/Movie-review/)
